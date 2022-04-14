@@ -1,0 +1,14 @@
+{
+  "name": "bot-tutorial-discord",
+  "version": "1.0.0",
+  "description": "Il mio primo bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik Cartman",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
